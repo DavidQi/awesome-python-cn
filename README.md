@@ -130,6 +130,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 *   python-magic：文件类型检测的第三方库 libmagic 的 Python 接口。[官网](https://github.com/ahupp/python-magic)
 *   Unipath：用面向对象的方式操作文件和目录。[官网](https://github.com/mikeorr/Unipath)
 *   watchdog：管理文件系统事件的 API 和 shell 工具[官网](https://github.com/gorakhargosh/watchdog)
+*   pyinotify：基于Linux 的inotify事件驱动机制，用于监视文件系统。[官网](https://github.com/seb-m/pyinotify)
 
 ### 日期和时间
 
