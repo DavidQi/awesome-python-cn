@@ -159,7 +159,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
     *   yfiglet-figlet：[pyfiglet -figlet](https://github.com/pwaller/pyfiglet) 的 Python实现。
     *   shortuuid：一个生成器库，用以生成简洁的，明白的，URL 安全的 UUID。[官网](https://github.com/stochastic-technologies/shortuuid)
     *   unidecode：Unicode 文本的 ASCII 转换形式 。[官网](https://pypi.python.org/pypi/Unidecode)
-    *   text_unidecode: 又一个实现Unicode 文本转换，类似上面的unidecode。[官网](https://github.com/kmike/text-unidecode)
+    *   text_unidecode: 又一个实现Unicode 文本转换，类似上面的unidecode。[官网](https://github.com/kmike/text-unidecode)
     *   uniout：打印可读的字符，而不是转义的字符串。[官网](https://github.com/moskytw/uniout)
     *   xpinyin：一个用于把汉字转换为拼音的库。[官网](https://github.com/lxneng/xpinyin)
     *   simplejson：Python的JSON编码、解码器。[官网](https://simplejson.readthedocs.io/en/latest/)、[GitHub](https://github.com/simplejson/simplejson)
